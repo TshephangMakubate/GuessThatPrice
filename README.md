@@ -57,7 +57,7 @@ When prompted, enter a date in `mm/dd/yy` format to receive a price estimate and
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 GuessThatPrice/
@@ -66,12 +66,6 @@ GuessThatPrice/
 ├── requirements.txt             # Python dependencies
 └── Demo Photos/                 # Sample output screenshots
 ```
-
----
-
-## Disclaimer
-
-This tool is intended for **analytical and educational purposes**. Price predictions are based on a linear trend model and should not be used as the sole basis for financial decisions. Always consult a qualified financial professional before making investment or trading decisions.
 
 ---
 
